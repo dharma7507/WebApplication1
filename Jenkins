@@ -1,3 +1,16 @@
+Jenkins is an open source continuous integration (CI) and continuous delivery (CD) tool written in Java.
+
+it is an automation server used to build and deliver software projects.
+
+A Major benefit of using jenekins is that it has a lot of plugins available
+
+There is easier to use CI software available, but jenkins is open source, free and still very popular.
+
+b23f0a32c7b8475bbf0ba52ad2c2adbf
+
+http://108.143.209.117:8080/
+
+
 sudo apt-get install openjdk-11-jdk-headless
 wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
 sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
